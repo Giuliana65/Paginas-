@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin título</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body {
+	background-image: url(../imagenes/1475643270.jpg);
+	background-repeat: no-repeat;
+	font-size: large;
+}
+a:link {
+	color: #F00;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #F00;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+	font-weight: bold;
+}
+</style>
+</head>
+
+<body>
+<table width="100%" border="0">
+  <tr>
+    <td width="34%" height="193" align="center"><img src="../imagenes/christina.jpg" width="300" height="168" /></td>
+    <td colspan="2"><p style="font-weight: bold; text-align: center; font-size: 36px;"><a href="../index.html">CHRISTINA</a></p>
+    <p style="font-weight: bold; text-align: center; font-size: 36px;"><a href="../index.html">AGUILERA</a></p></td>
+    <td width="30%" align="center"><img src="../imagenes/5a2dabf30279a.png" width="300" height="172" /></td>
+  </tr>
+  <tr>
+    <td height="51"><a href="../tema 1.html" style="font-weight: bold; text-align: center; font-size: large;">BEAUTIFUL - Tema 1 </a></td>
+    <td width="17%"><a href="../tema 2.html" style="font-weight: bold; font-size: large;">HURT - Tema 2 </a></td>
+    <td width="19%"><a href="../tema 3.html" style="font-weight: bold">YOU LOST ME - Tema 3</a></td>
+    <td><p><a href="../video 2.html" style="font-weight: bold">SAY SOMETHING - Video</a></p></td>
+  </tr>
+  <tr>
+    <td colspan="4"><table width="100%" border="0">
+      <tr>
+        <td height="55" align="center"><!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable --></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="195" colspan="4" align="center"><!-- TemplateBeginEditable name="EditRegion4" -->EditRegion4<!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td colspan="4" style="text-align: center"><p><a href="../tema 1.html">BEAUTIFUL - Tema 1 </a>/ <a href="../tema 2.html">HURT - Tema 2 </a>/ <a href="../tema 3.html">YOU LOST ME - Tema 3 </a>/ <a href="../video 2.html">SAY SOMETHING - Video </a></p>
+    <p>&nbsp;</p></td>
+  </tr>
+</table>
+</body>
+</html>
